@@ -20,16 +20,16 @@ It is a simple, responsive static site built to present the product, capture use
 - JavaScript  
 
 ## 📁 Folder Structure
-`
-├── images/
-├── index.html
-├── style.css
-├── package.json
-├── tailwind.config.js
-├── postcss.config.js
-├── vite.config.js
-└── README.md
-`
+```
+    ├── images/
+    ├── index.html
+    ├── style.css
+    ├── package.json
+    ├── tailwind.config.js
+    ├── postcss.config.js
+    ├── vite.config.js
+    └── README.md
+```
 
 ## ✏️ Customization
 
