@@ -1,4 +1,4 @@
-# PW UI Landing Page
+# PW Landing Page
 
 This repository contains the landing page for **PW**.  
 It is a simple, responsive static site built to present the product, capture user interest, and provide key information at a glance.
