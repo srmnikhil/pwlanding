@@ -10,6 +10,7 @@ It is a simple, responsive static site built to present the product, capture use
 
 - Clean and modern UI
 - Responsive design (mobile-friendly)
+- Mobile First Responsive
 - Fast loading and lightweight
 - Easy to customize and deploy
 
